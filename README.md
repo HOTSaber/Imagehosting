@@ -24,7 +24,8 @@ tags:
 ## 下载picgo
 访问 PicGo 的 Github 项目地址并安装PicGo客户端：[Releases · Molunerfinn/PicGo (github.com)](https://eryinote.com/go?_=31614169aaaHR0cHM6Ly9naXRodWIuY29tL01vbHVuZXJmaW5uL1BpY0dvL3JlbGVhc2Vz)
 # picgo设置
-![[300.使用GitHub搭建图床-1.png]]
+![300.使用GitHub搭建图床-1](https://cdn.jsdelivr.net/gh/HOTSaber/Imagehosting@main/blogpic/300.%E4%BD%BF%E7%94%A8GitHub%E6%90%AD%E5%BB%BA%E5%9B%BE%E5%BA%8A-1.png)
+
 1. 进入`图床设置`-->`GitHub`
 2. 设定`仓库名`、`分支名`
    - 仓库名为：github用户名/第一步新建的仓库名称
@@ -36,7 +37,7 @@ tags:
 	   可以访问[jsDelivr官网](https://www.jsdelivr.com/?docs=gh)查看教程，自定义域名如下：
 	    `https://<jsDelivr加速域名>/gh/<用户>/<项目>@<版本>
 	    原本github的自定义域名应该是：
-	    `https://raw.githubusercontent.com/[username]/[仓库名]]`
+	    `https://raw.githubusercontent.com/[username]/[仓库名]`
 # obsidian一键上传
 请参考[obsidian入门教程--图片上传进阶内容](https://hotsaber.github.io/2023/07/09/8.obsidian%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B/#%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%EF%BC%88%E8%BF%9B%E9%98%B6%E5%86%85%E5%AE%B9%EF%BC%89)
 
